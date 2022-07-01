@@ -1,0 +1,11 @@
+# echo node_modules >> .gitignore
+/.cache# 
+/dist
+/node_modules
+/package-lock.json
+/.DS_Store
+
+src/scenes/BombSpawner.js
+src/scenes/HelloWorldScene.js
+src/scenes/GameScene.js
+src/ui/ScoreLabel.js
